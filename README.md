@@ -1,2 +1,3 @@
 # homework_netology
-homework fo
+homework for my netology
+
